@@ -1,6 +1,6 @@
 # Automation testing with Cypress
 
-This project test automation framework for www.saucedemo.com. SauceDemo is a sample website built by SauceLabs that allows users to practice browser automation.
+This project test automation framework for https://www.saucedemo.com. SauceDemo is a sample website built by SauceLabs that allows users to practice browser automation.
 
 ## Description
 
