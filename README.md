@@ -1,4 +1,4 @@
-# Automation testing with Cypress
+# Automation Testing with Cypress
 
 This project test automation framework for https://www.saucedemo.com. SauceDemo is a sample website built by SauceLabs that allows users to practice browser automation.
 
@@ -10,7 +10,7 @@ This project is a sample repository for demonstrating how to create some test ca
 
 To use this project,follow these steps:
 
-1. Clone this repository to your local machine with command "**git clone** https://github.com/alvaro131313/CY10.git ".
+1. Clone this repository to your local machine "**git clone** https://github.com/alvaro131313/CY10.git ".
 2. Thought the terminal execute command " **npm i** " to install the proyect dependencies.
 3. Run " **npm run go** " to start the project.
 
