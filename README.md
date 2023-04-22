@@ -10,7 +10,7 @@ This project is a sample repository for demonstrating how to create some test ca
 
 To use this project,follow these steps:
 
-1. Clone this repository to your local machine with command "**git clone** ".
+1. Clone this repository to your local machine with command "**git clone** https://github.com/alvaro131313/CY10.git ".
 2. Thought the terminal execute command " **npm i** " to install the proyect dependencies.
 3. Run " **npm run go** " to start the project.
 
