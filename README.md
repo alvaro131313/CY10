@@ -23,7 +23,6 @@ npm run html-report   // Run tests with Cypress in headless mode with reports
 After run npm run html-report go to /my_report folder and open index.html file
 ```
 ## Contributing
-
 Contributions are welcome!To contribute,follow these steps:
 
 1. Fork this repository.
