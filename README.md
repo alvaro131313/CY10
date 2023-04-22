@@ -4,9 +4,9 @@ This project test automation framework for www.saucedemo.com. SauceDemo is a sam
 
 ## Description
 
-This project is a sample repository for demonstrating how to create some test cases and reports throught this framework called cypress version 10.It provides a guide on what information to include and how to structure your own test case and report file to help others understand your project. 
+This project is a sample repository for demonstrating how to create some test cases and reports throught this framework called cypress version 10. It provides a guide on what information to include and how to structure your own test case and report file to help others understand your project. 
 
-##Installation
+## Installation
 
 To use this project,follow these steps:
 
@@ -15,16 +15,12 @@ To use this project,follow these steps:
 3. Run " npm run go " to start the project.
 
 ## How to create my own report of test case
-
 ```
 npm run html-report   // Run tests with Cypress in headless mode with reports
 ```
-
 ## Reporter on local machine
-
 ```
 After run npm run html-report go to /my_report folder and open index.html file
-
 ```
 ## Contributing
 
