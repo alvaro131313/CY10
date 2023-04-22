@@ -10,11 +10,11 @@ This project is a sample repository for demonstrating how to create some test ca
 
 To use this project,follow these steps:
 
-1. Clone this repository to your local machine with command "git clone ".
-2. Thought the terminal execute command " npm i " to install the proyect dependencies.
-3. Run " npm run go " to start the project.
+1. Clone this repository to your local machine with command "**git clone** ".
+2. Thought the terminal execute command " **npm i** " to install the proyect dependencies.
+3. Run " **npm run go** " to start the project.
 
-## How to create my own report of test case
+## How to create my report file
 ```
 npm run html-report   // Run tests with Cypress in headless mode with reports
 ```
