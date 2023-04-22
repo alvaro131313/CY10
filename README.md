@@ -4,11 +4,11 @@ This project test automation framework for www.saucedemo.com. SauceDemo is a sam
 
 ## Description
 
->This project is a sample repository for demonstrating how to create some test cases and reports throught this framework called cypress version 10.It provides a guide on what information to include and how to structure your own test case and report file to help others understand your project. 
+This project is a sample repository for demonstrating how to create some test cases and reports throught this framework called cypress version 10.It provides a guide on what information to include and how to structure your own test case and report file to help others understand your project. 
 
 ##Installation
 
->To use this project,follow these steps:
+To use this project,follow these steps:
 
 1. Clone this repository to your local machine with command "git clone ".
 2. Thought the terminal execute command " npm i " to install the proyect dependencies.
@@ -28,7 +28,7 @@ After run npm run html-report go to /my_report folder and open index.html file
 ```
 ## Contributing
 
-> Contributions are welcome!To contribute,follow these steps:
+Contributions are welcome!To contribute,follow these steps:
 
 1. Fork this repository.
 2. Create a new branch.
@@ -40,14 +40,14 @@ After run npm run html-report go to /my_report folder and open index.html file
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> This project is licensed under the terms of the [MIT license](/LICENSE).
+This project is licensed under the terms of the [MIT license](/LICENSE).
 
 [![Cypress.io](https://img.shields.io/badge/Tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
 
 ## Acknowledgments
 
-> This project was inspired by the need for a comprehensive guide on how to create a test case and report file for GitHub.
+This project was inspired by the need for a comprehensive guide on how to create a test case and report file for GitHub.
 
 ## Contact 
 
-> For question or feedback,please contact the author at alvarodiazalguera@gmail.com .
+For question or feedback,please contact the author at alvarodiazalguera@gmail.com .
